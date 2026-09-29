@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CIS-25-First-Project/CIS-25-First-Project.vcxproj" Id="6b7d78d6-634f-4f23-be77-5415b9a375ac" />
+</Solution>
